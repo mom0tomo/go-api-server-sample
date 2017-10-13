@@ -1,0 +1,4 @@
+package: github.com/mom0tomo/go-api-server
+import:
+- package: github.com/julienschmidt/httprouter
+  version: ^1.1.0
